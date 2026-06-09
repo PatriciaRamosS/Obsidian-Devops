@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Capacitação - DevOps CPQD\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "path:\"Colaborando em projetos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.23567708333333,
+  "lineSizeMultiplier": 2.12890625,
+  "collapse-forces": false,
+  "centerStrength": 0.341145833333333,
+  "repelStrength": 9.63541666666667,
+  "linkStrength": 0.4921875,
+  "linkDistance": 249,
+  "scale": 8,
+  "close": true
+}
