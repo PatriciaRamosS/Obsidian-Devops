@@ -15,10 +15,31 @@
       }
     },
     {
-      "query": "path:\"Colaborando em projetos\"  ",
+      "query": "path:\"Git e GitHub - compartilhando e colaborando em projetos/Aula 02 - Colaborando em projetos\"  ",
       "color": {
         "a": 1,
-        "rgb": 16762880
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "path:\"Git e GitHub - compartilhando e colaborando em projetos/Aula 03 - Utilizar Git na IDE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Git e GitHub - compartilhando e colaborando em projetos/Aula 04 - Voltando um commit\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    },
+    {
+      "query": "path:\"Git e GitHub - compartilhando e colaborando em projetos/Aula 05 - Mais Recursos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 22015
       }
     }
   ],
